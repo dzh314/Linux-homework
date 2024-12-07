@@ -1,0 +1,18 @@
+Magic                            : 0x7f 0x45 0x4c 0x46
+Class                            : ELF64
+Data                             : little-endian
+Version                          : 1
+OS/ABI                           : 0
+Type                             : 2
+Machine                          : 62
+Version                          : 1
+Entry point address              : 0x401040
+Start of program headers         : 64 (bytes into file)
+Start of section headers         : 14928 (bytes into file)
+Flags                            : 0
+Size of this header              : 64 (bytes)
+Size of program headers          : 56 (bytes)
+Number of program headers        : 11
+Size of section headers          : 64 (bytes)
+Number of section headers        : 30
+Section header string table index: 29
