@@ -13,5 +13,5 @@ else
     echo "----------------------------------Testing homework$1--------------------------------------------------"
     dmesg > result$1.log
     echo "----------------------------------Results are written into file result$1.log--------------------------"
- #   make clean
+    make clean
 fi
